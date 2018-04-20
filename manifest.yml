@@ -1,0 +1,4 @@
+applications:
+  - name: demo
+    buildpack: java_buildpack_offline
+    path: target/spring-boot-mysql-springdatajpa-hibernate-0.0.1-SNAPSHOT.jar
